@@ -1,0 +1,50 @@
+.title {
+    border-top: 2px solid #C8C6C8;
+    border-bottom: 1px solid #E4E4E4;
+}
+.select {
+    width: 400px;
+}
+.don-vi {
+    padding: 0 20px;
+}
+.dollars {
+    width: 80px;
+}
+.cents {
+    width: 20px;
+}
+textarea {
+    width: 600px;
+    height: 100px;
+}
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid black;
+}
+th {
+    text-align: left;
+    width: 400px;
+}
+td {
+    text-align: center;
+    width: 100px;
+}
+.row1 {
+    background-color: #E6E6E6;
+}
+.row3 {
+    background-color: #F5F5F5;
+}
+.submit {
+    background-color: white;
+    font-weight: bold;
+    margin: 20px 0;
+    border: 2px solid #F4F4F4;
+    border-radius: 5px;
+    width: 80px;
+    height: 25px;
+    font-size: 15px;
+}
